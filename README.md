@@ -99,3 +99,6 @@ Let’s see how we can automate downloading PDFs from Google search results.
     This script downloads each PDF, sanitizes filenames, verifies their readability, and stores them in the specified directory.
 
 By integrating these components, you can automate the retrieval of PDFs from Google search results efficiently.
+
+![image](https://github.com/user-attachments/assets/7c41227f-d93e-4212-8abb-7877b643390c)
+
